@@ -1,0 +1,8 @@
+[submodule "ocorrencia-app"]
+	path = ocorrencia-app
+	url = https://github.com/Gammon64/ocorrencia-app.git
+	branch = main
+[submodule "ocorrencia-api"]
+	path = ocorrencia-api
+	url = https://github.com/Gammon64/ocorrencia-api.git
+	branch = main
